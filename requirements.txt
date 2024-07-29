@@ -1,0 +1,37 @@
+PyPDF2
+pyttsx3
+
+simple-image-download
+
+# image background remover
+rembg
+streamlit
+
+win10toast # only for windows
+
+
+# tkinter # no need to install, its available by defauft but requires several other packages to be installed to make it work!! therefore skipping it for now
+pyperclip
+
+# article summarizer
+transformers
+bs4
+
+#grammar checker
+lmproof
+# python -m spacy download en
+
+# QR code
+qrcode
+
+pyshorteners # - create short url link using external apis from tinyurl, bitly, git.io etc
+
+# screen recorder
+opencv-python
+pyautogui
+
+# h20 reminder
+plyer
+
+# smart trading
+# pip install streamlit prophet yfinance plotly numpy==1.26.1
