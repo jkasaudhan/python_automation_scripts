@@ -14,7 +14,7 @@ def generate_qr_code(link, filename):
     qr.make(fit=True)
 
     img = qr.make_image(fill_color="black", back_color="white")
-    img.save("profile.png")
+    img.save(filename)
 
 
 if __name__ == "__main__":

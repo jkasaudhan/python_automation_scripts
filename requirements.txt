@@ -24,6 +24,9 @@ lmproof
 # QR code
 qrcode
 
+# for animation
+streamlit-lottie
+
 pyshorteners # - create short url link using external apis from tinyurl, bitly, git.io etc
 
 # screen recorder
